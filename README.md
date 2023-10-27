@@ -1,2 +1,2 @@
 # Ответы на ревью
-- [[Review1|Примитивы]]
+- [Примитивы](https://github.com/Kisskin-Mister/review1/blob/main/Review1.md)
