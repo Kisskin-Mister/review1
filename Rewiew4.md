@@ -45,7 +45,7 @@ try{
   
 14. **Можно ли после try написать несколько catch? Правило.**
     - от наследника к предку
-```
+```java
 try{
 someCode();
 }cach(ExceptionType1 e){
